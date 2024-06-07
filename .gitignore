@@ -1,4 +1,5 @@
+*/*.h5
 *.h5
-.DS_Store
 *.RData
 *.RHistory
+.DS_Store
