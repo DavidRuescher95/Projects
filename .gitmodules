@@ -1,0 +1,3 @@
+[submodule "Bioinformatics/NGS-Analysis"]
+	path = Bioinformatics/NGS-Analysis
+	url = git@github.com:DavidRuescher95/NGS-Analysis.git
